@@ -21,7 +21,8 @@ from __future__ import print_function
 
 import unittest
 
-import gym
+# import gym
+import gymnasium as gym
 from absl.testing import parameterized
 
 

@@ -28,7 +28,8 @@ from gfootball.env import constants
 from gfootball.env import football_action_set
 from gfootball.env import football_env_core
 from gfootball.env import observation_rotation
-import gym
+# import gym
+import gymnasium as gym
 import numpy as np
 
 

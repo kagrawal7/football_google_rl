@@ -3,6 +3,9 @@ pygame>=1.9.6
 opencv-python
 psutil
 numpy
-gym<=0.21.0
+# gym is no longer supported
+# gym<=0.21.0
+gymnasium
 absl-py
 wheel
+six # only needed for compatibility with python 2 apparently

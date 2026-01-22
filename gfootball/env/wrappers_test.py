@@ -20,7 +20,8 @@ from __future__ import division
 from __future__ import print_function
 
 import os
-import gym
+# import gym
+import gymnasium as gym
 import numpy as np
 from absl.testing import absltest
 
