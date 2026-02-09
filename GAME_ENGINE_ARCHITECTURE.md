@@ -189,8 +189,7 @@ If you want to modify game behavior:
 
 ### After Modifying C++ Code:
 ```bash
-# Rebuild the engine
-cd /home/runner/work/football_google_rl/football_google_rl
+# Rebuild the engine (from repository root)
 bash gfootball/build_game_engine.sh
 
 # Or with pip (rebuilds and reinstalls)
