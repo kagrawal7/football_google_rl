@@ -105,6 +105,7 @@ To quit the game press Ctrl+C in the terminal.
     * [Play vs built-in AI](#play-vs-built-in-AI)
     * [Play vs pre-trained agent](#play-vs-pre-trained-agent)
     * [Trained checkpoints](#trained-checkpoints)
+* [Game Engine Architecture](GAME_ENGINE_ARCHITECTURE.md) - **Where the game logic is located**
 * [Environment API](gfootball/doc/api.md)
 * [Observations & Actions](gfootball/doc/observation.md)
 * [Scenarios](gfootball/doc/scenarios.md)
